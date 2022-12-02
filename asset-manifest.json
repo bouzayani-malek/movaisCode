@@ -1,17 +1,37 @@
 {
   "files": {
-    "main.css": "/movaisCode/static/css/main.b5e3498b.css",
-    "main.js": "/movaisCode/static/js/main.420aabc4.js",
-    "static/media/img1.png": "/movaisCode/static/media/img1.a6eecd3c395f903cc6e9.png",
+    "main.css": "/movaisCode/static/css/main.88946bd6.css",
+    "main.js": "/movaisCode/static/js/main.87d224cb.js",
+    "static/media/fa-solid-900.svg": "/movaisCode/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/movaisCode/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/sida1.png": "/movaisCode/static/media/sida1.88002d54055ff1954959.png",
+    "static/media/sida3.png": "/movaisCode/static/media/sida3.1385995211bb155e2c34.png",
+    "static/media/sida4.jpg": "/movaisCode/static/media/sida4.754a60c4a8928d206e84.jpg",
+    "static/media/sida6.jpg": "/movaisCode/static/media/sida6.2110379ee23af3abb3db.jpg",
+    "static/media/sida5.jpg": "/movaisCode/static/media/sida5.359b9875e1196b0ce6ff.jpg",
+    "static/media/fa-solid-900.eot": "/movaisCode/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/movaisCode/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-regular-400.svg": "/movaisCode/static/media/fa-regular-400.4689f52cc96215721344.svg",
     "static/media/Room.jpeg": "/movaisCode/static/media/Room.29bc2d0399bcf5a3db9a.jpeg",
+    "static/media/fa-brands-400.eot": "/movaisCode/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/movaisCode/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/logo.png": "/movaisCode/static/media/logo.eae23b7338b31765c379.png",
+    "static/media/fa-solid-900.woff": "/movaisCode/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/movaisCode/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/movaisCode/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/movaisCode/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/smile.jpg": "/movaisCode/static/media/smile.9151fd16076981cafc01.jpg",
+    "static/media/fa-regular-400.eot": "/movaisCode/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/movaisCode/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
     "static/media/erreur.png": "/movaisCode/static/media/erreur.a0a9147daf0aac4438fd.png",
+    "static/media/fa-regular-400.woff": "/movaisCode/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/movaisCode/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/movaisCode/index.html",
-    "main.b5e3498b.css.map": "/movaisCode/static/css/main.b5e3498b.css.map",
-    "main.420aabc4.js.map": "/movaisCode/static/js/main.420aabc4.js.map"
+    "main.88946bd6.css.map": "/movaisCode/static/css/main.88946bd6.css.map",
+    "main.87d224cb.js.map": "/movaisCode/static/js/main.87d224cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5e3498b.css",
-    "static/js/main.420aabc4.js"
+    "static/css/main.88946bd6.css",
+    "static/js/main.87d224cb.js"
   ]
 }
