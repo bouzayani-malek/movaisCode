@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movaisCode/static/css/main.b5e3498b.css",
+    "main.js": "/movaisCode/static/js/main.420aabc4.js",
+    "static/media/img1.png": "/movaisCode/static/media/img1.a6eecd3c395f903cc6e9.png",
+    "static/media/Room.jpeg": "/movaisCode/static/media/Room.29bc2d0399bcf5a3db9a.jpeg",
+    "static/media/smile.jpg": "/movaisCode/static/media/smile.9151fd16076981cafc01.jpg",
+    "static/media/erreur.png": "/movaisCode/static/media/erreur.a0a9147daf0aac4438fd.png",
+    "index.html": "/movaisCode/index.html",
+    "main.b5e3498b.css.map": "/movaisCode/static/css/main.b5e3498b.css.map",
+    "main.420aabc4.js.map": "/movaisCode/static/js/main.420aabc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e3498b.css",
+    "static/js/main.420aabc4.js"
+  ]
+}
